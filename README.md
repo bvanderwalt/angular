@@ -2,7 +2,7 @@
 Angular interview project
 
 1. Create a new project called ‘interview-project’
-2. Create two components:
+2. Create two components in a components folder:
     * parent-component
     * child-component
 3. Add routing to go to the parent component for route ‘parent’ and for any other route go to ‘child’
