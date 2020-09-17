@@ -11,3 +11,4 @@ Angular interview project
 6. Now add a function called yesDaddy() to the child component and call it in the ‘ngAfterViewInit’ method of the parent component
 7. Now create a variable (myName) in the parent component and pass it to to the child component using the ‘Input’ decorator. Set the value for myName to be ‘Your Daddy'
 8. Then print the value of myName inside the child component’s OnInit method using console.log
+9. Now push this project to Github: https://github.com/bvanderwalt/angular.git
